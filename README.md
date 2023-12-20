@@ -1,4 +1,10 @@
  ## 
+Olá! Eu sou Guilherme, 18 anos, e é um prazer conhecê-lo! ;)
+
+❤️ Desenvolvedor Back-end Java
+💚 Experiência com o framework Spring
+💛 Atualmente estudando Javascript
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyaguiar&show_icons=true&theme=dracula)
 <div> 
   <div style="display: inline_block"><br>
