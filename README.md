@@ -34,7 +34,7 @@ Oi! Eu sou o Gui, também conhecido como **Taki** na internet. Tenho 19 anos e �
 - 📺 **Anime favorito:** *Monster*  
 
 > "Você não pode simplesmente apagar os sentimentos das pessoas. É como se minhas emoções estivessem perdidas em algum lugar a centenas de quilômetros de distância. É como se tivessem sido enviados há muito tempo, numa carta que sempre foi destinada a mim."
-
+>
 > — *Wolfgang Grimmer (Monster)*
 
 ---
